@@ -118,7 +118,10 @@ This is not an official roadmap at all.
 # List of compatible referees
 
 If you have a bug or a problem with one of these referees, create an issue of the github project of the referee, not on cg-brutaltester project. This may not be a full list of available referees for cg-brutaltester. If you want to add a referee to this list, just make a pull request.
-
+ * Legends Of Code And Magic
+   * https://github.com/fala13/LegendsOfCodeAndMagic (Java)
+ * Code of Kutulu
+   * https://github.com/fala13/code-of-kutulu (Java)
  * Ultimate Tic Tac Toe
    * https://github.com/dreignier/game-ultimate-tictactoe (Java)
  * Ghost in the cell:
